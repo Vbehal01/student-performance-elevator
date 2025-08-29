@@ -1,0 +1,46 @@
+sex,age,address_type,school_choice_reason,travel_time,study_time,class_failures,school_support,family_support,extra_paid_classes,activities,nursery_school,higher_ed,internet_access,family_relationship,free_time,social,weekday_alcohol,weekend_alcohol,health,absences,grade,suggestion
+F,18,Urban,course,15 to 30 min.,2 to 5 hours,0,yes,no,no,no,yes,yes,no,4,3,4,1,1,3,4,B,"Based on the student's data, here's a personalized suggestion to improve their academic performance:
+
+**Suggestion:** To upgrade your grade from B to A, focus on creating a dedicated study routine and utilize your school's support resources.
+
+**Rationale:**
+
+* The student has a decent study time of 2-5 hours, but with a travel time of 15-30 minutes, they can utilize this commuting time to review notes or read ahead in their coursework.
+* The student has access to school support, which is a great resource to take advantage of. They can attend tutoring sessions, seek help from teachers, or join study groups to better understand challenging concepts.
+* The student's family relationship score is 4, indicating a decent relationship, but the lack of family support might be affecting their motivation. By leveraging school resources, the student can compensate for this lack of support.
+* The student's absences score is 4, which is relatively high. By attending classes regularly and creating a study routine, they can stay on top of their coursework and avoid missing important lessons.
+
+By implementing these strategies, the student can improve their grade from B to A."
+F,17,Urban,course,<15 min.,2 to 5 hours,0,no,yes,no,no,no,yes,yes,5,3,3,1,1,3,2,B,"Based on the student's information, here's a personalized suggestion:
+
+""Considering you're already performing well with a B grade, you can upgrade your grade to an A by dedicating an additional 1-2 hours of focused study time per week, specifically targeting areas where you struggle the most. With your current study habit of 2-5 hours, this extra effort will help you refine your understanding and retain information better, leading to improved grades.""
+
+This suggestion takes into account the student's existing study habits, availability of free time, and family support, which can all contribute to their academic success. By focusing on specific areas of improvement and allocating additional study time, the student can strive to achieve an A grade."
+F,15,Urban,other,<15 min.,2 to 5 hours,0,yes,no,no,no,yes,yes,yes,4,3,2,2,3,3,6,B,"Based on the student's information, here's a personalized suggestion:
+
+""Considering you have a good foundation with 2-5 hours of study time and no class failures, you can upgrade your grade from B to A by optimizing your free time and social life. Allocate specific times for relaxation and socializing, and try to limit your weekday and weekend alcohol consumption to focus more on your studies. With a slight adjustment to your routine and priorities, you can reach your goal of achieving an 'A' grade."""
+F,15,Urban,home,<15 min.,5 to 10 hours,0,no,yes,no,yes,yes,yes,yes,3,2,2,1,1,5,0,B,"Based on the student's information, here's a personalized suggestion:
+
+""Considering you're already performing well with a grade of B, you can upgrade your grade to A by allocating a specific time slot each week to review and practice the most challenging topics in your subjects. With your existing study habit of 5-10 hours a week, dedicating an additional 1-2 hours to focused review can help you bridge the gap to an A grade. Make the most of your daily routine and prioritize consistent effort to reach your academic goal!"""
+F,16,Urban,home,<15 min.,2 to 5 hours,0,no,yes,no,no,yes,yes,no,4,3,2,1,2,5,0,B,"Based on the student's information, here's a personalized suggestion:
+
+""You're doing great with a B grade, but with a few tweaks, you can upgrade your grade to an A! Consider allocating dedicated study time each day, rather than 2-5 hours in chunks, to improve consistency and retention of the material. Try breaking down your study sessions into 45-minute focused intervals with 10-15 minute breaks in between. This will help you stay engaged and motivated, and with your family's support, you can achieve an A grade!"""
+M,16,Urban,reputation,<15 min.,2 to 5 hours,0,no,yes,no,yes,yes,yes,yes,5,4,2,1,2,5,6,B,"Based on the student's information, here is a personalized suggestion regarding their grade:
+
+""Since you're already performing well with a B grade, you can upgrade your grade to an A by focusing on effective time management and creating a more structured study schedule. With 2-5 hours of study time, you're on the right track, but consider allocating specific times for reviewing notes, practicing problems, and completing assignments. Additionally, since you have a strong family support system, don't hesitate to ask for help or guidance when needed. By making these adjustments, you can reach your goal of achieving an A grade."""
+M,16,Urban,home,<15 min.,2 to 5 hours,0,no,no,no,no,yes,yes,yes,4,4,4,1,1,3,0,B,"Based on the student's information, here's a personalized suggestion:
+
+""Considering you're already performing well with a grade of B, you can upgrade your grade to A by increasing your study time to a more consistent 5 hours a day, focusing on understanding and reviewing class materials regularly, and seeking help from teachers or classmates if you're struggling with any concepts."""
+F,17,Urban,home,15 to 30 min.,2 to 5 hours,0,yes,yes,no,no,yes,yes,no,4,1,4,1,1,1,2,B,"Based on the student's information, here's a personalized suggestion to improve their academic performance:
+
+""You can upgrade your grade from B to A by increasing your study time and creating a more conducive learning environment. With only 2-5 hours of study time per week, consider allocating more time to reviewing and practicing assignments, especially in subjects where you struggle. Additionally, since you don't have internet access at home, explore alternative study spaces on campus or at a local library to minimize distractions and stay focused.""
+
+This suggestion addresses the student's limited study time and lack of internet access, which may be hindering their ability to excel academically. By increasing study time and finding alternative study spaces, the student can better prepare themselves for classes and ultimately improve their grade to an 'A'."
+M,15,Urban,home,<15 min.,2 to 5 hours,0,no,yes,no,no,yes,yes,yes,4,2,2,1,1,1,0,A,"Congratulations on maintaining an excellent grade of A!
+
+Considering your consistent study habits (2-5 hours/day) and strong family support, you're already on the right track. To maintain this level of performance, I suggest you focus on refining your time management skills. With a travel time of less than 15 minutes, you can utilize your daily commute to review notes, read ahead, or work on assignments. This will help you stay organized, reduce stress, and make the most of your study time.
+
+By doing so, you can maintain your excellent performance and continue to achieve an 'A' grade. Keep up the good work!"
+M,15,Urban,home,<15 min.,2 to 5 hours,0,no,yes,no,yes,yes,yes,yes,5,5,1,1,1,5,0,B,"Based on the student's information, here is a personalized suggestion:
+
+""Congratulations on your current grade of B! To upgrade to an A, consider increasing your study time to 5 hours or more daily. With your strong family support and access to internet, you can utilize online resources to supplement your learning and explore additional study aids to deepen your understanding of the subjects. This focused effort will help you bridge the gap to achieve an A grade."""
